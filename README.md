@@ -1,8 +1,10 @@
-![](https://steamuserimages-a.akamaihd.net/ugc/768360125443810551/28510128B53E16819505BFB493E3D97566521803/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+<p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/768360125443810551/28510128B53E16819505BFB493E3D97566521803/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Hello there"></p>
 
-<h3>I'm Anton, BMSTU ICS7 Software Engineering student and developer from Moscow 🇷🇺</h3>
+<h3 align="center">I'm Anton, BMSTU ICS7 Software Engineering student and developer from Moscow 🇷🇺</h3>
 
-<h2>Statistics</h2>
+<h2 align="center">Statistics</h2>
+
+<div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agarmirus&theme=tokyonight)
 
@@ -12,19 +14,31 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agarmirus&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agarmirus&theme=tokyonight)
 
-<h2>Skills</h2>
+</div>
 
-<h3>Expert</h3>
+<h2 align="center">Skills</h2>
+
+<h3 align="center">Expert</h3>
+
+<div align="center">
 
 Nothing (╥﹏╥)
 
-<h3>Proficient</h3>
+</div>
+
+<h3 align="center">Proficient</h3>
+
+<div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h3>Competent</h3>
+</div>
+
+<h3 align="center">Competent</h3>
+
+<div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -34,7 +48,11 @@ Nothing (╥﹏╥)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h3>Advanced Beginner</h3>
+</div>
+
+<h3 align="center">Advanced Beginner</h3>
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -44,12 +62,20 @@ Nothing (╥﹏╥)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-<h3>Novice</h3>
+</div>
+
+<h3 align="center">Novice</h3>
+
+<div align="center">
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-<h3>Trainee</h3>
+</div>
+
+<h3 align="center">Trainee</h3>
+
+<div align="center">
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
@@ -61,7 +87,11 @@ Nothing (╥﹏╥)
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<h3>About to start learning</h3>
+</div>
+
+<h3 align="center">About to start learning</h3>
+
+<div align="center">
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -70,3 +100,4 @@ Nothing (╥﹏╥)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+</div>
