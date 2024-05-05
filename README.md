@@ -1,5 +1,3 @@
-<p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/768360125443810551/28510128B53E16819505BFB493E3D97566521803/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Hello there"></p>
-
 <h3 align="center">I'm Anton, BMSTU ICS7 Software Engineering student and developer from Moscow 🇷🇺</h3>
 
 <h2 align="center">Statistics</h2>
