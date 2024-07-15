@@ -1,5 +1,3 @@
-<h3 align="center">I'm Anton, BMSTU ICS7 Software Engineering student and developer from Moscow 🇷🇺</h3>
-
 <h2 align="center">Statistics</h2>
 
 <div align="center">
