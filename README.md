@@ -14,6 +14,7 @@
 
 </div>
 
+<!--
 <h2 align="center">Skills</h2>
 
 <h3 align="center">Expert</h3>
@@ -101,3 +102,4 @@ Nothing (╥﹏╥)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
+!-->
